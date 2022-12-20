@@ -1,0 +1,24 @@
+@startmindmap
+* ユースケース
+** スマートフォンをもたせる
+*** デバイス
+**** SIMカード
+**** 端末本体
+*** iOS/iPadOS
+**** AppleID
+**** スクリーンタイム
+**** 位置情報の共有・「探す」
+*** Android
+**** Googleアカウント
+**** Family Link
+**** 位置情報の共有
+** PCを使わせる
+*** Windows
+*** Mac
+*** ChromeBook
+*** 学校では
+**** MDM(CEU)
+** ゲーム
+*** レーティング
+*** Switch
+@endmindmap
